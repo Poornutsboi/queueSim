@@ -24,4 +24,4 @@ This code simulates a model similar to M/M/C/FIFO queuing theory.
 --stall_id : the counter id that the customer is assigned to in the system
 
 
-Need to mention that this code is programmed in context of an optimization model for charging strategy for charging stations and electric vehicles. So you find the naming of some variables a bit weird.
+Need to mention that this code is programmed under context of an optimization model of charging strategy for charging stations and electric vehicles. So you find the naming of some variables a bit weird.
